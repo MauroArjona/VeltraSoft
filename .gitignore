@@ -1,0 +1,20 @@
+# Dependencias y caches
+node_modules/
+.cache/
+**/.cache/
+.vercel/
+
+# Builds y pruebas
+dist/
+coverage/
+
+# Variables de entorno y secretos
+.env
+.env.*
+!.env.example
+
+# Logs y archivos del sistema
+*.log
+.DS_Store
+Thumbs.db
+Desktop.ini
