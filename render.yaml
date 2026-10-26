@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: veltrasoft
+    runtime: static
+    buildCommand: echo "No build required"
+    staticPublishPath: .
