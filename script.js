@@ -1,5 +1,5 @@
 // Configura el número con código de país, solo dígitos (ej.: 5491123456789).
-const WHATSAPP_PHONE = "";
+const WHATSAPP_PHONE = "542975023474";
 
 const menuButton = document.querySelector(".menu-toggle");
 const mainNav = document.querySelector(".main-nav");
